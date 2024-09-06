@@ -1,11 +1,19 @@
 𝗦𝘁𝗼𝗰𝗸-𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 
 
 
->  Python Library for Stock Market Prediction and Modelling."*
-> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐚 𝐬𝐭𝐨𝐜𝐤 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐦𝐨𝐝𝐞𝐥 𝐰𝐢𝐭𝐡 𝐨𝐯𝐞𝐫 𝟖𝟎% 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 𝐮𝐬𝐢𝐧𝐠 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐚𝐧𝐝 𝐡𝐢𝐬𝐭𝐨𝐫𝐢𝐜𝐚𝐥 𝐬𝐭𝐨𝐜𝐤 𝐝𝐚𝐭𝐚.
-• 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐭𝐡𝐞 𝐦𝐨𝐝𝐞𝐥 𝐢𝐧𝐭𝐨 𝐚𝐧 𝐞𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐭𝐫𝐚𝐝𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐞𝐝 𝐚 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞.
-• 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐜𝐫𝐨𝐬𝐬-𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐭𝐞𝐚𝐦𝐬, 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐭𝐨 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐞𝐟𝐟𝐨𝐫𝐭𝐬, 𝐚𝐧𝐝 𝐦𝐞𝐧𝐭𝐨𝐫𝐞𝐝 𝐣𝐮𝐧𝐢𝐨𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 𝐭𝐨 𝐞𝐧𝐬𝐮𝐫𝐞 𝐡𝐢𝐠𝐡-𝐪𝐮𝐚𝐥𝐢𝐭𝐲
-𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐮𝐩𝐝𝐚𝐭𝐞𝐬.
+> Developed an advanced stock prediction model using Python, leveraging machine learning techniques and historical stock data to achieve an impressive accuracy rate of over 80%. This model was designed to analyze complex patterns and trends in stock prices, providing actionable insights for trading decisions.
+
+Key Contributions:
+
+Model Development: Created a robust stock prediction model that employs advanced machine learning algorithms to forecast stock prices. The model processes historical data to identify patterns and make accurate predictions, significantly enhancing decision-making capabilities in trading.
+
+Integration and Implementation: Seamlessly integrated the predictive model into an existing trading platform. Implemented a monitoring dashboard to visualize and track the performance of the predictions in real-time, allowing for ongoing assessment and adjustments to improve trading strategies.
+
+Cross-Functional Collaboration: Worked closely with cross-functional teams, contributing to research efforts and ensuring the integration of the model aligned with broader project objectives. Engaged in collaborative problem-solving to address complex challenges and enhance the overall efficacy of the trading platform.
+
+Mentoring and Quality Assurance: Provided mentorship to junior developers, guiding them in best practices for coding and model implementation. Ensured high-quality code and continuous updates by fostering a collaborative environment focused on excellence and innovation.
+
+This project not only demonstrated technical proficiency in machine learning and data analysis but also highlighted the ability to deliver impactful solutions in a dynamic trading environment.
 
 
 ### Table of Contents
