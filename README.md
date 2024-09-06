@@ -1,5 +1,4 @@
-# ---
-𝗦𝘁𝗼𝗰𝗸-𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 
+#𝗦𝘁𝗼𝗰𝗸-𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 
 
 
 >  Python Library for Stock Market Prediction and Modelling."*
